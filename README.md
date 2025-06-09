@@ -1,6 +1,6 @@
 # 🚖 Taxi Price Prediction App
 
-This project is a machine learning regression app that predicts taxi ride prices based on trip-related features like distance, duration, time of day, traffic, and weather conditions. The app is built using Streamlit and trained using a Random Forest Regressor model. Check out taxi price predictor here*.
+This project is a machine learning regression app that predicts taxi ride prices based on trip-related features like distance, duration, time of day, traffic, and weather conditions. The app is built using Streamlit and trained using a Random Forest Regressor model. Check out taxi price predictor [here](https://taxi-price-regression.streamlit.app/).
 
 # Inspiration
 This project was inspired by the need for transparent and data-driven taxi fare estimation. It serves as a practical example of applying regression techniques to real-world scenarios while demonstrating end-to-end machine learning skills, from data preprocessing to model deployment using Streamlit.
