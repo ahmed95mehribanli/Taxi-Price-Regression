@@ -46,7 +46,7 @@ This project was inspired by the need for transparent and data-driven taxi fare 
   - Day of Week (`Weekday`, `Weekend`)
   - Traffic Conditions (`Low`, `Medium`, `High`)
   - Weather (`Clear`, `Rain`, `Snow`)
-- Built with Python, Pandas, Scikit-Learn, Streamlit
+  - Built with Python, Pandas, Scikit-Learn, Streamlit
 
 # 🌐 App Deployment
   - Developed an interactive Streamlit app to allow user inputs and predict trip prices.
@@ -54,10 +54,6 @@ This project was inspired by the need for transparent and data-driven taxi fare 
   - App takes both numeric (distance, duration, rates) and categorical (time, day, weather, traffic)  inputs.
 
   - Outputs predicted trip price based on trained model.
-
-# Sure! Here's a version tailored to your **Taxi Price Regression** project, written in a clear and professional tone:
-
----
 
 ## 👥 Contributions
 
